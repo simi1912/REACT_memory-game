@@ -1,0 +1,7 @@
+div.card {
+    width: 9vw;
+    height: 9vw;
+    margin: 10px;
+    border: 10px solid #282c34;
+    border-radius:10px
+}

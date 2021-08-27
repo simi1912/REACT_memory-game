@@ -1,0 +1,22 @@
+div.navbar {
+    margin: 0;
+    padding: 10px 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #282c34;
+    color: #fff;
+}
+
+div.navbar h1 {
+    margin: 5px;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
